@@ -1,0 +1,23 @@
+/**
+ * Custom CSS may be added here.
+ */
+body {
+  min-width: 357px;
+  min-height: 250px;
+  overflow-x: hidden;
+  padding-top: 10px;
+  color: #111111;
+}
+
+.tab-pane {
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #111111;
+}
+
+.line {
+  font-weight: bold;
+  text-align: center;
+  color: #111111;
+}

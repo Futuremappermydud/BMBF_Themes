@@ -1,0 +1,50 @@
+.fullheight 
+{
+ background-color: black !important;
+}
+.ng-star-inserted {
+ background-color: black !important;
+}
+.mat-line 
+{
+ color:white !important;
+}
+.title-message {
+ color:white !important;
+}
+.opsCount 
+{
+ color:white !important;
+}
+.status-bar[_ngcontent-dop-c0]
+{
+ color:rgb(17,17,17) !important;
+}
+.top-section 
+{
+ color:white !important;
+}
+.padded-container
+{
+ color:white !important;
+}
+.upload-inner
+{
+ background-color: black !important; 
+}
+.upload-inner:hover
+{
+ background-color: #222222 !important;
+}
+.status 
+{
+ color:white !important;
+ background-color:rgb(17,17,17) !important;
+ padding-top: 7px;
+ padding-bottom: 9px;
+ padding-right: 1600px;
+}
+.download
+{
+
+}

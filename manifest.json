@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "BMBF Themes",
+  "description": "Daan weeb",
+  "version": "1.0",
+
+  "permissions": [
+    "storage"
+  ],
+
+  "browser_action": {
+    "default_title": "BMBF Themes",
+    "default_icon": "images/icon.png",
+    "default_popup": "html/popup.html"
+
+  },
+"content_scripts": [{
+    "css": ["Styles.css"],
+    "js": ["content.js"],
+"matches": ["{QUEST_IP}*"]
+  }]
+}
